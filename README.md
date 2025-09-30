@@ -7,8 +7,7 @@ This repository contains my work from the **Systematic Program Design** course s
 - [SPD Part 3 (SPD3x)](https://learning.edx.org/course/course-v1:UBCx+SPD3x+3T2015/home)
   
 Although the courses are archived (no certificates or staff support), I completed all three parts for self-study and fundamentals practice.
-👉 While learning SPD, I also referred to this helpful repo for structure and reference:  
-[s7oev/spd](https://github.com/s7oev/spd)
+👉 While learning SPD, I also referred to this helpful repo for structure and reference: [s7oev/spd](https://github.com/s7oev/spd)
 
 ---
 
@@ -55,16 +54,18 @@ Each folder usually contains:
 I used this course series to:
 - Strengthen **systematic problem-solving** habits (HtDF/HtDD/HtDW recipes)  
 - Practice **functional programming** and recursion  
-- Build a foundation for advanced CS topics (algorithms, data structures, compilers)  
+- Build a solid foundation for advanced computer science topics (algorithms, data structures, compilers)  
 
-Although Racket itself isn’t used in industry, the thinking skills and design recipes from SPD transfer directly to languages like **Python, Java, C++** — essential for FAANG-style interviews and real-world software engineering.
+Although Racket itself isn’t widely used in industry, the skills and design recipes from SPD transfer directly to other programming languages such as **Python, Java, and C++**, making this course a valuable step in developing long-term programming fundamentals.
 
 ---
 
 ## 📌 Notes
-- This repo is for **educational purposes only**.  
-- All solutions are my own, unless explicitly marked as staff solutions.  
-- If you’re studying SPD, I recommend solving problems yourself before checking my code.
+- This repo is mainly for my **learning and practice**.  
+- The solutions here are my own attempts (unless I noted otherwise), so they may not always be the most elegant.  
+- If you’re also studying SPD, I’d encourage you to try the problems yourself first — that’s where the real learning happens!  
+
+---
 
 
 
