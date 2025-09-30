@@ -7,6 +7,8 @@ This repository contains my work from the **Systematic Program Design** course s
 - [SPD Part 3 (SPD3x)](https://learning.edx.org/course/course-v1:UBCx+SPD3x+3T2015/home)
   
 Although the courses are archived (no certificates or staff support), I completed all three parts for self-study and fundamentals practice.
+👉 While learning SPD, I also referred to this helpful repo for structure and reference:  
+[s7oev/spd](https://github.com/s7oev/spd)
 
 ---
 
@@ -63,6 +65,7 @@ Although Racket itself isn’t used in industry, the thinking skills and design 
 - This repo is for **educational purposes only**.  
 - All solutions are my own, unless explicitly marked as staff solutions.  
 - If you’re studying SPD, I recommend solving problems yourself before checking my code.
+
 
 
 
