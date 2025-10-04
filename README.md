@@ -15,7 +15,6 @@ Although the courses are archived (no certificates or staff support), I complete
 Each folder usually contains:
 - `problem-name-starter.rkt` → Starter code/problem statement  
 - `problem-name-solution-mine.rkt` → My solution (Racket)  
-- `problem-name-solution-mine-export.txt` → Text export of my solution  
 - `problem-name-solution.rkt` → Official staff solution (for comparison)  
 - `*.rkt~` → Temporary DrRacket backup (ignore)  
 - Quizzes → Multiple choice/design quiz PDFs  
@@ -66,6 +65,7 @@ Although Racket itself isn’t widely used in industry, the skills and design re
 - If you’re also studying SPD, I’d encourage you to try the problems yourself first — that’s where the real learning happens!  
 
 ---
+
 
 
 
